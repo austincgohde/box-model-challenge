@@ -17,3 +17,31 @@ img {
 */
 
 /* Code Under This Line */
+.box-model {
+  box-sizing: border-box;
+  margin: 75px;
+}
+
+.a {
+  background-color: #FFED5D;
+  height: 400px;
+  padding: 20px;
+}
+
+.b {
+  background-color: #FF7050;
+  height: 340px;
+  padding: 20px;
+}
+
+.c {
+  background-color: #222;
+  height: 280px;
+  padding: 20px;
+}
+
+.d {
+  background-color: #7BBADE;
+  height: 220px;
+  padding: 20px;
+}
